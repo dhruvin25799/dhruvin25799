@@ -49,6 +49,12 @@ I have also written some technical and non-technical blogs which are linked belo
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 
+---
+
+## My Stats :fire:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvin25799&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **dhruvin25799/dhruvin25799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
